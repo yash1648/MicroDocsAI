@@ -1,0 +1,4 @@
+GOOGLE_API_KEY="Google api key"
+PROJECT_PATH="Path to the microservice"
+LOG_LEVEL="info"
+
